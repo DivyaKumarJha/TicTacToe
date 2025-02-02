@@ -3,6 +3,7 @@ let resetButton = document.querySelector("#reset-btn");
 let newGameBtn = document.querySelector("#new-btn");
 let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
+// This is a comment
 
 let turn0 = true; // can be X for player1 or 0 for player2
 // tic tac toe would be like 
